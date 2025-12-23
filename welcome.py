@@ -1,0 +1,5 @@
+print("cool \nalpha")
+print("Vivaan", end = " ")
+print("Verma")
+print("Vivaan", "Verma", sep = "+")
+print("My age is", 10)
